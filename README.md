@@ -73,7 +73,7 @@ chocolate-factory-system/
 
 ## Credits
 
-Built by **Hala Jalal** as a university project at Umm Al-Qura University.
+Team university project at Umm Al-Qura University. **Hala Jalal** contributed as a team member (teammate names were not recorded in the available materials).
 
 ## License
 
